@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Just A Coder</h1>
-<h3 align="center">I Like To Code in Php bcz why not. I am Cracker Too and I Make IOS Shortcuts For Fun</h3>
+<h3 align="center">I Like To Do Coding in Php bcz why not. I am Cracker Too and I Make IOS Shortcuts For Fun</h3>
 
 
 - 🎭 Join My Telegram Channel **https://t.me/decoapi**
