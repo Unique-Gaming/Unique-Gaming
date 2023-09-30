@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Just A Coder</h1>
+<h3 align="center">I Like To Code in Php bcz why not. I am Cracker Too and I Make IOS Shortcuts For Fun</h3>
 
-<!--
-**Unique-Gaming/Unique-Gaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎭 Join My Telegram Channel **https://t.me/decoapi**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎭 Join My 2nd Telegram Channel [https://t.me/UNQCLOUD](https://t.me/UNQCLOUD)
+
+
+<h3 align="left">Contact me: Join My Telegram Channel We Can Talk There</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
