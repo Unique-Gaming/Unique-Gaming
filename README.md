@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Just A Coder</h1>
-<h3 align="center">I Like To Do Coding in Php bcz why not. I am Cracker Too and I Make IOS Shortcuts For Fun</h3>
+<h3 align="center">I Like To Do Coding in Php bcz why not. I am Retired Cracker and I Make IOS Shortcuts For Fun</h3>
 
 
 - 🎭 Join My Telegram Channel **https://t.me/decoapi**
-
-- 🎭 Join My 2nd Telegram Channel [https://t.me/UNQCLOUD](https://t.me/UNQCLOUD)
 
 
 <h3 align="left">✨ Contact me: Join My Telegram Channel We Can Talk There</h3>
