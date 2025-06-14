@@ -4,6 +4,9 @@
 
 - 🎭 Join My Telegram Channel **https://t.me/decoapi**
 
+- 🎭 Join My IOS Shortcut Telegram Channel
+**https://t.me/ios_shortcuts**
+
 
 <h3 align="left">✨ Contact me: Join My Telegram Channel We Can Talk There</h3>
 <p align="left">
