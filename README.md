@@ -27,5 +27,5 @@
 ---
 
 ### ⚡ Fun Facts  
-- I used to explore cracking — not anymore!  
+- I used to do cracking — not anymore!  
 - I’m passionate about combining tech with creativity (like making unique iOS Shortcuts).
